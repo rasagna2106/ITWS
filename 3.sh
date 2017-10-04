@@ -4,5 +4,5 @@ password=Rasagna@9490
 read message
 git add .
 git commit -m "$message"
-$username $password | $git push
+$username $password | git push
 
